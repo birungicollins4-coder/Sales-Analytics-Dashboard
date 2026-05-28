@@ -1,0 +1,12 @@
+Sales-Analytics-Dashboard/
+│
+├── dataset/
+├── screenshots/
+│   └── dashboard-preview.png
+├── sql_queries/
+│   └── sales_analysis.sql
+├── notebooks/
+│   └── sales_analysis.ipynb
+├── dashboard/
+│   └── sales_dashboard.pbix
+├── README.md
